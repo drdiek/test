@@ -1,5 +1,7 @@
 function pubmed()
-    
+%
+% Modified 18 January 2022 by Diek W. Wheeler, Ph.D.
+
     addpath data lib output
 
     [PMIDs] = initialize_variables();
